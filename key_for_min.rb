@@ -12,5 +12,10 @@ def key_for_min_value(name_hash)
       frank = kye
     end
   end
+  
+  name_hash.each do |kye, val|
+    
+    end
+  end
   frank
 end
